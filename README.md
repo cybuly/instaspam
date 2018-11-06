@@ -1,7 +1,7 @@
 # Cybuly İnstaspam Bot
 
-Windows
-python spambot.py
+Kullanım
+Python3 Kurulu Olması Şart
 
-Kali Linux 
-python3 spambot.py
+pip install colorama   Komutu İle colorama Modülünü Yüklüyorsunuz
+python3 spambot.py Komutu İle  Programı Çalıştırıyoruz.
